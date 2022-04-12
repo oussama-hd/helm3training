@@ -5,7 +5,7 @@
 image:
   # image name overrides repository and tag.
   imageName: ""
-  repository: registry.gitlab.com/trieb.work/saleor
+  repository: saadhaddad
   pullPolicy: IfNotPresent
   tag: "3.0.0"
 
